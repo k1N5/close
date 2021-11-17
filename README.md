@@ -7,7 +7,7 @@
     <body>
         
 
-          <p>My name is Denzel N Msusa. Aged 21. Currently doining my tertiary education.<b><br>WELOCOME TO MY CURRRICULMN VITAE...</br></b></p>
+          <p>My name is Denzel N Msusa. Aged 21. Currently doining my tertiary education.<b><br>WELOCOME TO MY CURRRICULMN VITAE...</b></p></br>
         
         
         <br> 
@@ -22,9 +22,9 @@
 
     <a href="references.html">
         <button id="btnthree"><b>References</b></button>
-        </br>
+       
     </a>
-
+ </br>
     </body>
 
 </html>
