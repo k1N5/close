@@ -24,7 +24,19 @@
     <a href="references.html">
         <button id="btnthree"><b>References</b></button>
         
-        <body>
+        
+    </a>
+ </br>
+    </body>
+
+</html>
+
+<html>
+    <head>
+        <title>References</title>
+
+    </head>
+    <body>
         <h1><b>References</b></h1>
        <p> The Registar</p>                                                                                                                 
        <p>Harare Institute of Technology</p>                    
@@ -40,8 +52,4 @@
        <p>Karoi</p>                   
        <p>0782321677</p>
     </body>
-    </a>
- </br>
-    </body>
-
 </html>
