@@ -13,6 +13,7 @@
         <br> 
             <a href="cv.html">
                 <button id="btnone"><b>Personal Details</b></button>
+                
                     </a> 
                 
           
@@ -22,7 +23,23 @@
 
     <a href="references.html">
         <button id="btnthree"><b>References</b></button>
-       
+        
+        <body>
+        <h1><b>References</b></h1>
+       <p> The Registar</p>                                                                                                                 
+       <p>Harare Institute of Technology</p>                    
+       <p>P.O Box BE277, Belvedere</p>                          
+       <p>Harare</p>                                            
+       <p>Telephone : +263 24 2741422-36</p>
+       </body>
+
+       <body>
+       <p>The Register</p> 
+       <p>Karoi telone</p> 
+       <p>P.O BOX 14 Kings road</p>
+       <p>Karoi</p>                   
+       <p>0782321677</p>
+    </body>
     </a>
  </br>
     </body>
